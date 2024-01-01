@@ -1,6 +1,6 @@
 # Animated 3D Tree
 
-This project features a captivating tree animation inspired by the design created by NlghtM4re, showcased on [uiverse.io](https://uiverse.io/profile/NlghtM4re). The animation is implemented using HTML, CSS, and JavaScript to create a visually appealing and dynamic representation of a stylized tree.
+This project features a captivating tree animation inspired by the design created by NlghtM4re, showcased on [uiverse.io](https://uiverse.io/profile/NlghtM4re). The animation is implemented using HTML, CSS, and JavaScript to create a visually appealing and dynamic representation of a stylized tree .
 
 ## Preview
 ![3D Animated Tree](https://github.com/Aarzoo75/Animated-3D-Tree/assets/59678435/d6f6124b-844c-4053-89ad-5ec2afb30fa1)
