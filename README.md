@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/withaarzoo/Animated-3D-Tree.svg?style=social)](https://github.com/withaarzoo/Animated-3D-Tree/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/withaarzoo/Animated-3D-Tree.svg)](https://github.com/withaarzoo/Animated-3D-Tree/issues)
+
 # Animated 3D Tree
 
 This project features a captivating tree animation inspired by the design created by NlghtM4re, showcased on [uiverse.io](https://uiverse.io/profile/NlghtM4re). The animation is implemented using HTML, CSS, and JavaScript to create a visually appealing and dynamic representation of a stylized tree.
